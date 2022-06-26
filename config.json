@@ -1,0 +1,5 @@
+{
+    "token": "Ton token si tu ne souhaite pas te connecter avec le qr code desatctive le ci-dessous (remplace true par false)",
+    "msg": "Ton message de pub",
+    "qrLogin": true
+}
